@@ -1,3 +1,6 @@
+
+<img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/ca8efbfe-4cc4-435a-ade1-e7330fd160ff" />
+
 # AI Resume Generator / AI 求職投遞助手
 
 AI-powered job application assistant built with Streamlit.
