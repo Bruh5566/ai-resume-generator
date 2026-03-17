@@ -1,10 +1,10 @@
 streamlit
+requests
+beautifulsoup4
+lxml
 openai
 python-dotenv
 PyPDF2
 python-docx
 groq
-requests
-beautifulsoup4
-lxml
-#streamlit run app.py啟動指令#
+urllib3
