@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+PyPDF2
+python-docx
+groq
+requests
+beautifulsoup4
+lxml
+#streamlit run app.py啟動指令#
